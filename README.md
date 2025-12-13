@@ -6,7 +6,7 @@
 
 💬 Ask me about **JavaScript & MERN**
 <!-- 💻 My Portfolio : -->
-<!-- 🌱 I’m currently learning -->
+🌱 I’m currently learning : Cloud Computing
 🎀Fun Fact : Coffee, cupcakes & coding in my cozy corners🌸💻✨
 
 <h3 align="left">Let’s Connect :</h3>
