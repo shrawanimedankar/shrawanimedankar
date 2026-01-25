@@ -81,12 +81,12 @@
   </a>
 
   <!-- Cloud -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+   <!--<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS Amplify" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 
