@@ -40,9 +40,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Backend -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -59,9 +59,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a> 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Version Control & DevOps -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -76,9 +76,9 @@
   <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
   </a> -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Cloud -->
    <!--<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
