@@ -70,12 +70,12 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  </a> -->
+  <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
   </a>
