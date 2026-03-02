@@ -4,9 +4,9 @@
 
 <img align="right" src="https://github.com/shrawanimedankar/shrawanimedankar/blob/main/girl%20coding.gif" alt ="girl coding" width="400">
 
-<!-- - 💻 My Portfolio : -->
+- 💻 My Portfolio : https://shrawanimedankar.onrender.com/
 - 💬 Ask me about **JavaScript and MERN**
-- 🌱 I’m currently learning : **Cloud Computing**
+<!--- 🌱 I’m currently learning : **DevOps** -->
 - 🎀 Fun fact : Coffee, cupcakes & coding in my cozy corners🌸💻✨
 
 
