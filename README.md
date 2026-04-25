@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Technologies :</h3>
-<p align="left"> 
+<p  align="left" style="white-space: nowrap; overflow-x: auto;"> 
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
