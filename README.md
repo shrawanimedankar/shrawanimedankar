@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer(MERN) from Maharashtra, India</h3>
 <h4 align="center"> Building Full-stack web apps and improving daily.</h4>
 
-<img align="right" src="https://github.com/shrawanimedankar/shrawanimedankar/blob/main/girl%20coding.gif" alt ="girl coding" width="400">
+<img align="right" src="https://github.com/shrawanimedankar/shrawanimedankar/blob/main/girl%20coding.gif" alt ="girl coding" width="380">
 
 
 
